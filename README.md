@@ -1,4 +1,4 @@
-<div align="center">
+
 ### Hi there 👋, my name is Miguel Pastor
 #### Computer Science student.
 ![Computer Science student.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -11,13 +11,14 @@ Skills: Java / JavaScript / Python / HTML / CSS / PHP / MySQL
 - 🌱 I’m currently learning in web development and desktop application development. 
 - 📫 How to reach me: miguelcruz122604@gmail.com 
 
-
+<div align="center">
+  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Miguel-Pastor)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/EN-PROCESO/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](EN-PROCESO)
 
 <br />
 <br />
 
-<a href="https://github.com/Miguel-Pastor/My-Presentation.git"><strong>➥ Live Demo</strong></a>
+<a href=" https://miguel-pastor.github.io/My-Presentation/"><strong>➥ Live Demo</strong></a>
 
 
 </div>
