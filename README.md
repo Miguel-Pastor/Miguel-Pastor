@@ -1,7 +1,8 @@
-
+<div align="center">
 ### Hi there 👋, my name is Miguel Pastor
 #### Computer Science student.
 ![Computer Science student.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+</div>
 
 As a Computer Science student at UNAM, I specialize in building web applications and implementing databases. My main focus is on web development, where I acquire skills to design and create interactive and functional websites. In addition, I have experience in efficient database management, ensuring proper storage and access to information. Through my academic training and my passion for technology, I aspire to become a highly competent professional in the field of informatics, capable of facing the challenges and taking advantage of the opportunities that arise in the constantly evolving digital world.
 
@@ -18,7 +19,6 @@ Skills: Java / JavaScript / Python / HTML / CSS / PHP / MySQL
  <br />
 <br />
 
-<a href="https://codewithsadee.github.io/booken/"><strong>➥ Live Demo</strong></a>
 <a href="https://miguel-pastor.github.io/My-Presentation/"><strong>➥ Live Demo</strong></a>
 </div>
 
