@@ -19,8 +19,11 @@ Skills: Java / JavaScript / Python / HTML / CSS / PHP / MySQL
  <br />
 <br />
 
-<a href="https://miguel-pastor.github.io/My-Presentation/"><strong>➥ Live Demo</strong></a>
+<a href="https://miguel-pastor.github.io/My-Presentation/"><strong>➥ ABOUT ME </strong></a>
 </div>
+
+###PERSONAL WEBSITE
+![Booken Desktop Demo](./IMG/PRESENTATION.png "PERSONAL WEBSITE")
 
 
 
