@@ -1,7 +1,7 @@
-<img alt"Coding" width="400" hight="400" src="./IMPRESENTATION.jpg">
+<img alt="Coding" width="400" hight="400" src="./IMG/PRESENTATION.png">
 <h1 align="center">Hi 👋, I'm Miguel Pastor</h1>
 <h3 align="center">Computer Science student</h3>
-<img align="right" alt"Coding" width="400" src="./IMG/5213655.jpg">
+<img align="right" alt="Coding" width="400" src="./IMG/5213655.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguel-pastor&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-pastor" /> </p>
 
