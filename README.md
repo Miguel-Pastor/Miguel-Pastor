@@ -1,4 +1,4 @@
-<img alt="Coding" width="1000px" height="200px" src="./IMG/5213655.jpg">
+<img alt="Coding" width="1000px" height="300px" src="./IMG/5213655.jpg">
 <h1 align="center">Hi 👋, I'm Miguel Pastor</h1>
 <h3 align="center">Computer Science student</h3>
 
